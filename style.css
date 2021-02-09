@@ -1,0 +1,29 @@
+body{
+  text-align:center;
+  background:linear-gradient(#da0e83 0%,#5a48cd 50%, #00ecff 100%);
+  font-family: 'Satisfy', cursive;
+}
+h1{
+    font-size: 40px;
+    font-weight:300;
+    
+}
+#app{
+    width: 100%;
+    height: 800px;    
+}
+#games{
+    width: 100%;
+    height: 800px;    
+}
+#ChatBot{
+    width: 100%;
+    height: 800px;    
+}
+img{
+   transition: transform .2s;
+    
+}
+img:hover{
+ transform: scale(0.9);   
+}
